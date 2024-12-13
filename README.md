@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Auto Refresh Plus](https://img.shields.io/badge/Auto%20Refresh%20Plus-Extension-brightgreen)
+[![Auto Refresh Plus](https://img.shields.io/badge/Auto%20Refresh%20Plus-Extension-brightgreen)](https://chromewebstore.google.com/detail/auto-refresh-plus-page-mo/hgeljhfekpckiiplhkigfehkdpldcggm)
 ![Platform](https://img.shields.io/badge/Platform-Fiverr-1dbf73)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
@@ -26,7 +26,7 @@ A JavaScript script that enhances the Fiverr interface by displaying unread mess
 ## 📖 Usage
 
 ### Using with Auto Refresh Plus Extension
-1. Install [Auto Refresh Plus](https://chrome.google.com/webstore/detail/auto-refresh-plus/ohfjpkccecpdfkpmfocndhepolhljfhg) from the Chrome Web Store
+1. Install [Auto Refresh Plus](https://chromewebstore.google.com/detail/auto-refresh-plus-page-mo/hgeljhfekpckiiplhkigfehkdpldcggm) from the Chrome Web Store
 
 2. Go to the extension options and navigate to "Custom Scripts" section:
    ![Custom Scripts Section](images/custom-scripts.png)
