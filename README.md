@@ -1,4 +1,4 @@
-# Fiverr Unread and Notifications Counter Script for Auto Refresh Plus
+# Fiverr Unread and Notifications Custom Script for Auto Refresh Plus
 
 A JavaScript script that enhances the Fiverr interface by displaying unread messages and notifications count in both the dashboard and browser title.
 
