@@ -1,15 +1,29 @@
 # Fiverr Unread and Notifications Counter Script for Auto Refresh Plus
 
+<div align="center">
+
+![Auto Refresh Plus](https://img.shields.io/badge/Auto%20Refresh%20Plus-Extension-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Fiverr-1dbf73)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+</div>
+
 A JavaScript script that enhances the Fiverr interface by displaying unread messages and notifications count in both the dashboard and browser title.
 
-## Features
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ianwaithaka">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</div>
+
+## ✨ Features
 
 - Shows unread message count in red next to the dashboard link
 - Displays notification count in orange
 - Updates browser tab title with current counts
 - Real-time updates using Fiverr's API endpoints
 
-## Usage
+## 📖 Usage
 
 ### Using with Auto Refresh Plus Extension
 1. Install [Auto Refresh Plus](https://chrome.google.com/webstore/detail/auto-refresh-plus/ohfjpkccecpdfkpmfocndhepolhljfhg) from the Chrome Web Store
@@ -31,7 +45,7 @@ A JavaScript script that enhances the Fiverr interface by displaying unread mess
 5. You'll see notifications appear in the Fiverr dashboard when you have new messages or notifications:
    ![Fiverr Dashboard](images/fiverr-dashboard.png)
 
-## How it Works
+## 🛠️ How it Works
 
 The script:
 1. Fetches unread counts from Fiverr's API endpoints
@@ -39,11 +53,17 @@ The script:
 3. Modifies the browser tab title to show current counts
 4. Handles errors gracefully with console logging
 
-## Requirements
+## ⚙️ Requirements
 
 - Active Fiverr session
 - Access to Fiverr's dashboard page
 
-## License
+## 📄 License
 
 MIT
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Ian Waithaka</sub>
+</div>
