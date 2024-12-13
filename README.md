@@ -65,5 +65,5 @@ MIT
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Ian Waithaka</sub>
+  <sub>Built with ❤️ by Ian </sub>
 </div> 
